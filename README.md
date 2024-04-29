@@ -1,6 +1,3 @@
-Here's a suggested README for your Python keylogger script:
-
----
 
 # Python Keylogger
 
