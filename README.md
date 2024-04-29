@@ -46,7 +46,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Ensure you replace `[Project Name]`, `yourusername/yourproject`, and other placeholders with the appropriate details. Additionally, if your project has more features or instructions, feel free to expand or modify the README accordingly.
